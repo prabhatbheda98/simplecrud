@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    background-color: rgb(231, 214, 214);
+    box-sizing: border-box;
+    
+}
+h1{
+    text-shadow: 2px 2px 5px red;
+
+}
+input{
+    border-radius: 25px;
+    outline:none;
+    border: 2px solid black;
+    height: 50px;
+    width: 350px;
+    padding: 20px;
+    font-size: 25px;
+
+}
+#add{
+    border-radius: 25px;
+    margin-left: 106px;  
+    padding: 10px 24px;
+    height: 50px;
+    font-size: 20px;
+
+}
+#updtaebtn{
+    border-radius: 25px;
+    margin-left: 106px;  
+    padding: 10px 24px;
+    height: 50px;
+    font-size: 20px;
+    
+}
+.table{
+   
+    border: 1px solid black;
+}
